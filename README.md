@@ -3,7 +3,7 @@
 Odoopath4Startups: Vision into action, from day one to global scale.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
-[![Odoo](https://www.odoo.com/web/badge/logo)](https://www.odoo.com)
+[![Odoo](https://img.shields.io/badge/Odoo-Official-blue?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/shimaaabdelrahman/Odoopath4Startups?style=for-the-badge&logo=github&logoColor=white)
